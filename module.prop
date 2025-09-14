@@ -1,0 +1,6 @@
+id=los_undebug
+name=los_undebug
+version=v4
+versionCode=4000
+author=fork HuskyDG, ez-me
+description=LineageOS hide debug props

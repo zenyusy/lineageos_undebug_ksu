@@ -1,0 +1,13 @@
+service.sh, system.prop from ezme-nodebug (MIT License) — original copyright (c) 2022 Esteban Zapata
+
+system.prop from sensitive_props (GNU GPL v3) — original copyright (c) HuskyDG
+
+---
+
+useful links:
+
+github.com/althafvly/ih8sn
+
+github.com/apkunpacker/MagiskDetection
+
+www.reddit.com/r/LineageOS/comments/c04r20/comment/er3a1g5 (ro.build.type=user ro.debuggable=0 ro.secure=1)
